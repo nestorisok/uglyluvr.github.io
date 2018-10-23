@@ -1,5 +1,6 @@
 /* by Nestor */
-.nav-logo{height: 51px;display: block;margin: auto;}
+.nav-logo{height: 51px;margin: 0;display: block;}
+.nav-logo:hover{background-color: lightblue;display: block;}
 .nav {max-width:925px;float: left;}
 ul {
 list-style-type: none;
@@ -12,6 +13,7 @@ top: 0;
 width: 100%;
 font-size: 15pt;
 position: sticky;
+z-index: 500;
 }
 li {
   float: left;
