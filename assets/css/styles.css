@@ -12,8 +12,6 @@ position: -20px;
 top: 0;
 width: 100%;
 font-size: 15pt;
-position: sticky;
-z-index: 500;
 }
 li {
   float: left;
@@ -121,7 +119,6 @@ iframe {
 		Position: fixed;
     align: center;
 	}
-
   #button1: hover {
 		color: pink;
 		background-color: lightblue;
