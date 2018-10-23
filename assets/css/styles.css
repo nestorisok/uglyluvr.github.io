@@ -1,5 +1,5 @@
 /* by Nestor */
-.nav-logo{width: 25%; height: 25%;display: block;margin: auto;}
+.nav-logo{height: 51px;display: block;margin: auto;}
 .nav {max-width:925px;float: left;}
 ul {
 list-style-type: none;
@@ -11,10 +11,7 @@ position: -20px;
 top: 0;
 width: 100%;
 font-size: 15pt;
-<<<<<<< HEAD
-=======
 position: sticky;
->>>>>>> d03180252e02ad1e005b7f92d3dfb11153275917
 }
 li {
   float: left;
