@@ -1,5 +1,5 @@
 /* by Nestor */
-.nav-logo{height: 51px;margin: 0;display: block;}
+.nav-logo{margin: 0;display: block;}
 .nav-logo:hover{background-color: lightblue;display: block;}
 .nav {max-width:925px;float: left;}
 ul {
